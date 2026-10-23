@@ -1,0 +1,11 @@
+OrderID,Product,Category,Country,Quantity,UnitPrice,Revenue
+101,Laptop,Electronics,India,2,45000,90000
+102,Mouse,Accessories,India,5,500,2500
+103,Keyboard,Accessories,USA,3,1500,4500
+104,Monitor,Electronics,UK,2,12000,24000
+105,Laptop,Electronics,USA,1,45000,45000
+106,Mouse,Accessories,UK,10,500,5000
+107,Monitor,Electronics,India,3,12000,36000
+108,Keyboard,Accessories,Canada,4,1500,6000
+109,Laptop,Electronics,Canada,1,45000,45000
+110,Mouse,Accessories,India,8,500,4000
